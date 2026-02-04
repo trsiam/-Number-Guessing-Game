@@ -1,22 +1,28 @@
 ✨ Key Features
 
 ● 🎲 Random Number Generation — Computer selects a random number between 1 and 100
+
 ● 🧠 Smart Hints System — Tells the player if the guess is very close, close, or far away
+
 ● ❌ Input Validation — Handles non-numeric inputs gracefully
+
 ● 🎨 Colored Terminal Output — Error messages are highlighted for better visibility
+
 ● 🔁 Replay Option — Play again without restarting the program
+
 ● 🧭 Menu-Based Navigation — Simple start and exit menu
+
 ● 🖥️ CLI-Based Gameplay — Fully terminal-driven experience
 
 🛠️ Tools & Technologies Used
 
-🐍 Python
+● 🐍 Python
 
-🎨 termcolor — colored terminal messages
+● 🎨 termcolor — colored terminal messages
 
-🎲 random — random number generation
+● 🎲 random — random number generation
 
-⚙️ sys — clean program exit
+● ⚙️ sys — clean program exit
 
 🎯 Project Overview
 
