@@ -1,3 +1,6 @@
+🎯 Terminal-Based Number Guessing Game
+
+A fun and interactive command-line number guessing game built with Python, where the computer randomly selects a number and the player tries to guess it using helpful hints.
 ✨ Key Features
 
 ● 🎲 Random Number Generation — Computer selects a random number between 1 and 100
